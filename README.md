@@ -31,8 +31,8 @@ readability and organization of the source code.
 - All functions are docummented by docstring. Moveover, comment are present throughout
 the code.
 
-- Tests include for all functions can be perform by running `pytest`. Ideally, you 
-would setup a contrinuous integration scheme to make sure that tests are run every time
+- Tests are included for all functions and can be perform by running `pytest`. Ideally, you 
+would setup a continuous integration scheme to make sure that tests are run every time
 the code is changed.
 
 - `LICENSE` contains relevant legal information for people who want to use, copy, modify or distribute your code
