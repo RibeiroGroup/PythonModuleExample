@@ -14,5 +14,6 @@ def func_in_init():
     """This function is availiable when you import the module"""
     print("Hello from __init__.py!")
 
-# Import all functions within `main.py`
+# Import all functions in the files from this folder
 from .main import *
+from .another import *
